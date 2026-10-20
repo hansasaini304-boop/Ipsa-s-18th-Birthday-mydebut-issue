@@ -1,4 +1,5 @@
 # 🗞️ IPSA'S 18TH BIRTHDAY ISSUE: THE DEBUT EDIT
+![Magazine Cover](1.png)
 ### *A Milestone Publication • Volume 1, Issue 1*
 
 Welcome to my digital editorial archive! This repository houses my very first passion project as a **Magazine Editor, Layout Designer, and Creative Director**. 
